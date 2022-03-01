@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the Earl of Argyle and Laird of Innes, to the representation printed by the Duke of Gordon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01413</idno>
+            <idno type="STC">Wing A3466A</idno>
+            <idno type="STC">ESTC R172389</idno>
+            <idno type="EEBO-CITATION">53298936</idno>
+            <idno type="OCLC">ocm 53298936</idno>
+            <idno type="VID">179728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179728)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2798:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the Earl of Argyle and Laird of Innes, to the representation printed by the Duke of Gordon.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Argyll, Archibald Campbell, --  Duke of, 1682-1761 --  Trials, litigation, etc.</term>
+               <term>Innes, Henry, --  Sir, ca. 1670-1721 --  Trials, litigation, etc.</term>
+               <term>Gordon, George Gordon, --  Duke of, 1649-1716 --  Trials, litigation, etc.</term>
+               <term>Debtor and creditor --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179728:1" rendition="simple:additions"/>
+            <head>
+               <hi>ANSWERS</hi> For the Earl of <hi>Argyle</hi> and Laird of Innes, To the Repreſentation printed by the Duke of <hi>Gordon.</hi>
+            </head>
+            <p>THE Duke of <hi>Gordon</hi> pretends by the foreſaid Repreſentation, to ſtope the bad Impreſſion, which he ſays has been given of his Cauſe, without any deſign to Anticipat his legal De<g ref="char:EOLhyphen"/>fences; and yet he is ſo far from touching any Point of the favour that all good Men doe and will perpetually retain for the Marquiſs of <hi>Argyles</hi> memory; that he only offers a Paper of a few parti<g ref="char:EOLhyphen"/>culars, wherein the Accompt given by his adviſers, hath very little Truth, and as little Con<g ref="char:EOLhyphen"/>ſiſtency.</p>
+            <p>The Marquiſs of <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gyll</hi> did certainly Repreſent one of the moſt loyal Ancient and worthy Fami<g ref="char:EOLhyphen"/>lies of the Kingdom, and did eminently poſſeſs all theſe good qualities, which from his Predeceſ<g ref="char:EOLhyphen"/>ſors had deſcended upon him, and albeit the Motives that did incite his Adverſaries to proſecute him in the Year 1661. were, no doubt moſt violent; ſeeing nothing could ſatisfie them, notwith<g ref="char:EOLhyphen"/>ſtanding of his then Majeſties known inclination to the contrair, ſave his Blood &amp; Death; yet nothing was either alledged or proven againſt him, ſave a few inconſiderable Deeds of that Epidemick Com<g ref="char:EOLhyphen"/>plyance with the <hi>Engliſh</hi> Uſurpers; wherein the whole Kingdom and a great part of his Judges were Involved; ſo that all Men may wonder, as all good Men regrate, that ſuch a ſtrange and ſevere Forfaulture, the moſt Groundleſs of the many hundreds that have been of late Reſcinded, ſhould yet for more than eleven Years, ſince the laſt happy Revolution, ſtand Unreduced.</p>
+            <p>But to the Repreſentation, It begins with a Story of a Tocher of 30000 <hi>lib.</hi> contracted by the Marquiſs of <hi>Huntly,</hi> with his Daughter to the Lord <hi>Drummond;</hi> for which, the Marquiſs of <hi>Argyle,</hi> and Earl of <hi>Southeſque,</hi> with the Laird of <hi>Innes</hi> and others, became Cautioners, and that for Relief of this Debt, and of 22000 <hi>lib.</hi> more, that they were alſo ingaged in, for the Marquiſs of <hi>Huntly</hi> to <hi>Murray</hi> of <hi>Skirline;</hi> the Marquiſs of <hi>Argyle</hi> got ſecurity by Infeftment, in the Barronies of <hi>Lochquaber</hi> and <hi>Ba<g ref="char:EOLhyphen"/>denoth;</hi> and that the Earl of <hi>Southeſque</hi> Purſuing the Duke of <hi>Gordon</hi> for Relief of the Half: It was made appear in that Proceſs, that the Marquiſs of <hi>Argyle</hi> poſſeſt theſe Lands from the Year 1644.</p>
+            <p>The truth of which Story is, That the Marquiſs of <hi>Argyle</hi> was indeed ingaged in theſe Debts, as in ſeveral others, for the Marquiſs of <hi>Huntly</hi> his Brother in Law, and got Security for his Relief; but had in effect little or no Intromiſſion, till after the Year 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. at which time, having Compted with Marquiſs <hi>Lewis</hi> the Duke of <hi>Gordons</hi> Father, it appears by the Printed Minute of Contract, that all Intromiſſions being diſcounted, the Marquiſs of <hi>Huntly</hi> acknowledges himſelf Debitor to the Mar<g ref="char:EOLhyphen"/>quiſs of <hi>Argyle,</hi> in the Sum of 337028. <hi>lib.</hi> and for Payment of the Annualrents thereof, he Aſſigned him to as much of his Rents; And likewiſe, gives the Marquiſs of <hi>Argyle</hi> power to Sell Lands for payment of the Principal.</p>
+            <p>But ſo Groundleſs and Inconſiſtent is the Dukes Repreſentation in this matter, that Firſt it forgets that the Laird of <hi>Innes</hi> did truly pay the half of the ſaids 30000 <hi>lib.</hi> with Annualrents thereof, to the Earl of <hi>Perth,</hi> for which having got his Aſſignment, againſt the Marquiſs of <hi>Huntly,</hi> and the other Cautioners: The Marquiſs of <hi>Argyle,</hi> who had taken upon him the whole Debt, did moſt juſtly give to the Laird of <hi>Innes</hi> a Security for the ſaid 15000 <hi>lib.</hi> with the Annualrents, making then 20000 <hi>lib.</hi> out of the Lordſhip of <hi>Enzie,</hi> a part of the Eſtate of <hi>Huntly,</hi> which now the Duke of <hi>Gordon</hi> ſo very hardly and unjuſtly diſowns. 2. The Repreſentation makes mention of <hi>Southeſques</hi> proces, but con<g ref="char:EOLhyphen"/>cealls that <hi>Southeſque</hi> prevailed in that Proceſs; not becauſe the Marqueſs of <hi>Argyl</hi> had got Payment of the Debt by his Intromiſſions, which had been ridiculous, ſince thereupon the Duke of <hi>Gordon</hi> ſhould have been aſſoilȝied; But becauſe the Infeftment of Relief, having been given to the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Argyl,</hi> for <hi>Southeſque</hi> behoof, as well as his own; the Earl of <hi>Southeſque</hi> mentained his Right againſt the Forfeiture, and the Retour of Quinquennial Poſſeſſion, whereby the Duke of <hi>Gordon</hi> thought to have excluded him, by the Marquiſs of <hi>Argylls</hi> Poſſeſſion, and thus the Earl of <hi>Southeſque</hi> prevailed; but not at all on the account, that the Marquiſs of <hi>Argyl</hi> had got Payment by his In<g ref="char:EOLhyphen"/>tromiſſions, which was never dreamed of.</p>
+            <p>The Repreſentation goes on and alledges, That the Marquiſs of <hi>Argyl</hi> did Purchaſe <hi>Beattons</hi> Appry<g ref="char:EOLhyphen"/>ſing; But deſignedly ſuppreſſes, how that the Marquiſs of <hi>Argyl</hi> was neceſſitat to Purchaſe the ſame for 5000 <hi>lib. ſterl.</hi> and upwards: And Sir <hi>William Dicks</hi> Appryſing for eight Thouſand Pound Sterling, and upwards. As likewiſe, ſome other Debts, that he might make good his fore<g ref="char:EOLhyphen"/>ſaid ſaid Infeftment for Releif; And how that when he had Purchaſed all theſe Debts, he was ſtill con<g ref="char:EOLhyphen"/>tent to give the Marquiſs of <hi>Huntly</hi> his Nevoy, the Benefit of all the Compoſitions he had made; And that the foreſaid Sum contained in the Printed Minute, is the Sum that was found truely due to the Marquiſs of <hi>Argyl,</hi> after all deduction.</p>
+            <p>The Repreſentation alledges, That the Marquiſs of <hi>Argyle</hi> could nor juſtly give <hi>Jnnes</hi> a Security out of the Lordſhip of <hi>Enzie</hi> for the foreſaid 20000 <hi>lib.</hi> Becauſe <hi>Argyl</hi> himſelf had got payment for it by his Intromiſſions, but this Paragraph contains ſo many Falſehoods: That it is a wonder to ſee them in Print. For Firſt, It ſays that the Marquiſs of <hi>Argyl</hi> was in Peſſeſſion of 9000 <hi>Merks</hi> a Year of the Eſtate of <hi>Huntly,</hi> from the 1644. to the 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. and ſo was payed by his Intromiſſions; which is ſo far from truth, that it was in the Year 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. that the foreſaid Printed Minut paſt betwixt <hi>Argyl</hi> and <hi>Huntly,</hi> and where <hi>Huntly</hi> confeſſes himſelf to be ſo vaſtly his Debitor. 2. The Repreſentation denys that <hi>Jnnes</hi> payed the 15000 <hi>lib.</hi> with Annualrents thereof, to the Earl of <hi>Perth;</hi> Yet <hi>Jnnes</hi> doth actually produce the Earl of <hi>Perths</hi> Receipt and Aſſignation for his relief after diſtreſs, by the outmoſt legal Diligences, which no Man can believe, could be given without Payment. 3. The
+<pb facs="tcp:179728:2"/>Repreſentation ſays, That the Marqueſs of <hi>Argyle</hi> had Right to no other Debts of the Family of <hi>Huntly,</hi> ſave the foreſaid Tocher of 30000 <hi>lib.</hi> and the Debt of 22000 <hi>lib.</hi> due to <hi>Skirlin,</hi> ſince it is certain and can inſtantly be Inſtructed that he had Right to Sir <hi>Thomas. Nicolſons,</hi> Sir <hi>William Dicks,</hi> Mrs. <hi>Wakfield,</hi> and ſeveral others extending to a Vaſt Sum. 4. <hi>Esto,</hi> The Marqueſs made Oppoſition to <hi>Beatouns</hi> Infeftment, yet that doeth only confirm the neceſſity he was in to ſatisfie <hi>Beatoun</hi> before he could obtain his own Payment and Relief. And, 5. By what is ſaid the Honou<g ref="char:EOLhyphen"/>rable Court of Parliament may perceive how abſurdely the Repreſentation would make <hi>Innes</hi> his Right a contrivance betwixt him and the Marqueſs of <hi>Argyle,</hi> ſince <hi>Innes</hi> truely payed the Money to the Earl of <hi>Perth,</hi> and <hi>Argyle</hi> did juſtly give him a Security for the ſame out of the Eſtate of <hi>Huntly</hi> as having taken on him that Debt for the Marqueſs of <hi>Huntly,</hi> and included it in the foreſaid Sum contained in the Printed Minut.</p>
+            <p>The Repreſentation to take off the Earl of <hi>Argyles</hi> juſt Claim of Debt againſt the Family of <hi>Huntly</hi> upon the foreſaid Printed Minut, alleadges things ſo inconſiſtent that it is almoſt a ſhame to repeat them; For firſt, it ſays that the Marqueſs of <hi>Argyle</hi> had that Kindneſs for his Nevoy the Marqueſs of <hi>Huntly,</hi> as to cover <hi>Huntlys</hi> Poſſeſſion in regard his Father had been Forefaulted from the <hi>Engliſh</hi> Uſurpers, and yet immediately it ſubjoyns, That the Marques of <hi>Argyle</hi> hereby geting acceſs to <hi>Huntlies</hi> Charter Chriſt, had the Opportunity to make uſe of retired Bonds and out of the product of <hi>Huntlys</hi> Eſtate. to compone <hi>Huntlyes</hi> Debts at his pleaſure, than which there can be nothing more ungrate, Unreaſonable and abſurd. 2. It ſays that the Marqueſs of <hi>Argyle</hi> was highly in Favours with the <hi>Engliſh,</hi> whereas all Men that remember theſe times know that the Marqueſs of <hi>Argyle</hi> was the Man of his Quality in <hi>Scotland</hi> that was moſt ſuſpected by the <hi>Engliſh;</hi> And that inſtead of Favours he could never ſo much as obtain Juſtice of them, and if he had been ſo much in Favour with the <hi>Engliſh,</hi> and had been ſo ill intended towards the Family of <hi>Huntly,</hi> what ſhould have hindered him to have taken Poſſeſſion of the whole Eſtate of <hi>Huntly</hi> either by vertue of the Forfeiture, or by vertue of <hi>Beatouns</hi> expired Appryſing whereof he had then Right in his Reiſon. But, 3. The beſt account that can be given for the Marqueſs of <hi>Argyles</hi> Vindication in Relation to the Eſtate of <hi>Huntly,</hi> are the Marqueſs of <hi>Argyl</hi> his own Words when Arraigned before the Parliament 1661, which are theſe: <hi>For the Eſtate of</hi> Huntly <hi>I had nothing in it but for my own abſolutly Neceſſary Relief, and was ever moſt willing to part with any Intereſt I had therein, getting his Friends who trofeſs much Zeal for the ſtanding of the Family Ingadged for Warrandice to me of any Portion that ſhould fall to me, for my Satisfaction, and to Evidence that I was no means to harm the Family, I ſtood with my Rights betwixt all Fines and For<g ref="char:EOLhyphen"/>feitures and Accompted for any thing I could receive, and to manifeſt yet farder that the burden of that Family was not from any extrinſick Cauſe of themſelves I have under the old Marqueſs</hi>'s <hi>own Hand, and his Sons</hi> George <hi>Lord</hi> Gordon, <hi>who was a very worthy Young Nobleman the juſt Inventary of their Debts amounting to about Ten Hundreth Thouſand Merks in the Year</hi> 1640.</p>
+            <p>Theſe being the Words of the Marqueſs, having his Death certainly in his View will no doubt be much better believed then this Groundleſs Repreſentation. 4. How unjuſt then the Repreſen<g ref="char:EOLhyphen"/>tation is to alleadge that the Earl of <hi>Argyle</hi> hath nothing to Claim of the Eſtate of <hi>Huntly,</hi> and that he ſhould content himſelf with the Title of Earl and the Gift of 15000 <hi>lib.</hi> yearly, which he got out of his own Eſtate upon the Marqueſs of <hi>Argyls</hi> Forfeiture, and let the remainder of his Eſtate go for the Payment of <hi>Huntlys</hi> Debt, all Men may Judge.</p>
+            <p>The Duke of <hi>Gordon</hi> and the Earl of <hi>Aboyne</hi> poſſeſs no leſs then 5000 <hi>lib. ſterl.</hi> yearly free of Debt, by vertue of the Marqueſs of <hi>Argyls</hi> Forfeiture: And yet this Paper has the Confidence to ſay that the Earl of <hi>Argyle ſhould content himſelf with</hi> 15000 <hi>Lib. Scots of his Grand-Fathers Eſtate, and let the reſt go for the Payment of the Marqueſs of</hi> Huntlys <hi>Debt, who ever heard the like!</hi>
+            </p>
+            <p>The Repreſentation ends with ſome Reflections upon the Printed Minut 1653; ſtating the Debt due by the Houſe of <hi>Huntly</hi> to <hi>Argyle;</hi> And 1. It alleadges, that the Writer thereof is not deſigned, but the Writer is Named and may ſtill be Deſigned; beſides that the Paper is Subſcribed by both Parties and many honourable Perſons. 2. It alleadges, That Marqueſs <hi>Lewis</hi> was not Infeft as Heir to his Father, nor could he indeed be Infeft; becauſe his Father was then Forefaulted, but what could the Marqueſs of <hi>Argyle</hi> do more for the Marqueſs of <hi>Huntly,</hi> than to keep him in the Poſſeſſion of his Eſtate, notwithſtanding of his Fathers Forfeiture, and fairly to ſtate the Debt due to him by the Marqueſs of <hi>Huntly,</hi> when he might have Poſſeſt the Eſtate Irredeemably without either Compt or Reckoning. 3: The Repreſentation again alleadges the Marqueſs of <hi>Argyles</hi> Power with the <hi>Engliſh</hi> and over the Marqueſs of <hi>Huntly</hi> his Nevoy, and that he poſſeſt the whole Eſtate of <hi>Huntly</hi> for nine years except only 7000 Merks a year, which are all three falſe: For the Marqueſs of <hi>Argyle,</hi> as hath been ſaid, was in no Favour with the <hi>Engliſh,</hi> nor had the Marqueſs of <hi>Huntly</hi> and dependence upon him, but was a Man for himſelf, and behaved as abſolutely as any of his Predeceſſors. And all the Poſſeſſion that the Marqueſs of <hi>Argyle</hi> obtained, was to have the Chamberlands obliged to pay him his Annualrents as the Printed Minut bears, and which Annual<g ref="char:EOLhyphen"/>rents he never got.</p>
+            <p>So that upon the whole, this Repreſentation for the Duke of <hi>Gordon</hi> is in effect much more againſt him.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
